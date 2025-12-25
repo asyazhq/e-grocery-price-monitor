@@ -1,4 +1,7 @@
 import re
+from datetime import datetime, timezone
+from urllib.parse import urljoin
+
 import scrapy
 
 
@@ -9,15 +12,10 @@ def to_int_price(value: str | None) -> int | None:
     return int(digits) if digits else None
 
 
-class VkusmartSpider(scrapy.Spider):
-    name = "vkusmart"
+class VkusmartFullSpider(scrapy.Spider):
+    name = "vkusmart_full"
     allowed_domains = ["vkusmart.vmv.kz"]
-
-    CATEGORIES = [
-        {"category_name": "Молочка", "category_id": None, "url": "https://vkusmart.vmv.kz/catalog/moloko-slivki/"},
-        {"category_name": "Овощи",   "category_id": None, "url": "https://vkusmart.vmv.kz/catalog/ovoshchi_1/"},
-        {"category_name": "Хлеб",    "category_id": None, "url": "https://vkusmart.vmv.kz/catalog/khleb-bagety/"},
-    ]
+    start_urls = ["https://vkusmart.vmv.kz/catalog/"]
 
     custom_settings = {
         "DOWNLOAD_DELAY": 1.0,
@@ -33,7 +31,7 @@ class VkusmartSpider(scrapy.Spider):
             "store",
             "city",
             "category_name",
-            "category_id",
+            "category_url",
             "product_id",
             "product_name",
             "brand",
@@ -41,65 +39,96 @@ class VkusmartSpider(scrapy.Spider):
             "currency",
             "unit",
             "source",
+            "scraped_at",
         ],
     }
 
-    def start_requests(self):
-        for cat in self.CATEGORIES:
-            yield scrapy.Request(
-                url=cat["url"],
+    def __init__(self, max_categories: int = 40, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        try:
+            self.max_categories = max(1, int(max_categories))
+        except Exception:
+            self.max_categories = 40
+
+    def parse(self, response: scrapy.http.Response):
+        hrefs = response.css('a[href^="/catalog/"]::attr(href)').getall()
+        urls = []
+        seen = set()
+
+        for href in hrefs:
+            if not href:
+                continue
+
+            if any(x in href for x in ["#", "?", "/search/", "/compare/", "/basket/"]):
+                continue
+
+            url = urljoin(response.url, href)
+
+            if not url.rstrip("/").endswith("/catalog") and "/catalog/" in url:
+                if url not in seen:
+                    seen.add(url)
+                    urls.append(url)
+
+        urls = [u for u in urls if u.rstrip("/") != "https://vkusmart.vmv.kz/catalog"]
+
+        urls = urls[: self.max_categories]
+
+        if not urls:
+            self.logger.error("Не нашла категории на странице каталога: %s", response.url)
+            return
+
+        for url in urls:
+            yield response.follow(
+                url,
                 callback=self.parse_category,
                 meta={
-                    "category_name": cat["category_name"],
-                    "category_id": cat["category_id"],  
                     "store": "vkusmart",
                     "city": "astana",
                     "source": "vkusmart.vmv.kz",
+                    "category_url": url,
                 },
             )
 
     def parse_category(self, response: scrapy.http.Response):
-        category_name = response.meta["category_name"]
-        category_id = response.meta["category_id"]
-        city = response.meta["city"]
         store = response.meta["store"]
+        city = response.meta["city"]
         source = response.meta["source"]
+        category_url = response.meta["category_url"]
 
-        # Карточки товаров: div.item_block[data-id]
+        category_name = response.css("h1::text").get()
+        category_name = (category_name or "").strip() or None
+
+        scraped_at = datetime.now(timezone.utc).isoformat()
+
         for card in response.css('div.item_block[data-id]'):
             product_id = card.attrib.get("data-id")
 
-            # Название
             product_name = card.css('meta[itemprop="name"]::attr(content)').get()
             if not product_name:
                 product_name = card.css(".item-title a span::text").get()
             product_name = (product_name or "").strip() or None
 
-            # Бренд (если есть в верстке — часто отсутствует)
             brand = card.css('meta[itemprop="brand"]::attr(content)').get()
             brand = (brand or "").strip() or None
 
-            # Цена
             price_raw = card.css('meta[itemprop="price"]::attr(content)').get()
             if not price_raw:
                 price_raw = card.css(".price::attr(data-value)").get()
             price_kzt = to_int_price(price_raw)
 
-            # Валюта
             currency = card.css('meta[itemprop="priceCurrency"]::attr(content)').get()
             if not currency:
                 currency = card.css(".price::attr(data-currency)").get()
             currency = (currency or "KZT").strip()
 
-            # Единица измерения (/шт, /кг...)
             unit = card.css(".price_measure::text").get()
             unit = (unit or "").strip() or None
 
             yield {
-                "store": store,                 
-                "city": city,                   
-                "category_name": category_name, 
-                "category_id": category_id,     
+                "store": store,
+                "city": city,
+                "category_name": category_name,
+                "category_url": response.url, 
                 "product_id": int(product_id) if product_id and product_id.isdigit() else product_id,
                 "product_name": product_name,
                 "brand": brand,
@@ -107,6 +136,7 @@ class VkusmartSpider(scrapy.Spider):
                 "currency": currency,
                 "unit": unit,
                 "source": source,
+                "scraped_at": scraped_at,
             }
 
         next_url = response.css('link[rel="next"]::attr(href)').get()

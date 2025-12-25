@@ -1,170 +1,298 @@
-﻿store,city,category_name,category_id,product_id,product_name,price_kzt,currency,source
-clever,astana,Хлеб,1151,e1d15be1-c76a-11ec-b2b9-005056a59fae,Лаваш Столичный Хлеб Кавказский 160 гр пак,255,KZT,clevermarket.kz
-clever,astana,Хлеб,1151,b37e6a34-c76a-11ec-b2b9-005056a59fae,Батон Столичный Хлеб Нарезной 350 гр пак,325,KZT,clevermarket.kz
-clever,astana,Хлеб,1151,b37e6a42-c76a-11ec-b2b9-005056a59fae,Хлеб Столичный Хлеб на сыворотке пшеничный 450 гр пак,249,KZT,clevermarket.kz
-clever,astana,Хлеб,1151,b37e6a38-c76a-11ec-b2b9-005056a59fae,Хлеб Столичный Хлеб Бородинский 400 гр пак,349,KZT,clevermarket.kz
-clever,astana,Хлеб,1151,c796b1db-caa5-11ec-b2b9-005056a59fae,Хлеб Вкус Хлеба деревенский бездрожжевой 550 гр,519,KZT,clevermarket.kz
-clever,astana,Хлеб,1151,b37e6a40-c76a-11ec-b2b9-005056a59fae,Хлеб Столичный Хлеб Здоровье пшеничный 500 гр пак,285,KZT,clevermarket.kz
-clever,astana,Хлеб,1151,dba2c040-18ea-11f0-b2f6-005056a59fae,Хлеб Вкус хлеба Зерновой бездрожжевой 330 гр,599,KZT,clevermarket.kz
-clever,astana,Хлеб,1151,dba2c069-18ea-11f0-b2f6-005056a59fae,Хлеб Вкус хлеба Кефирный бездрожжевой 350 гр,599,KZT,clevermarket.kz
-clever,astana,Овощи,1089,bb4b73fb-da02-11ec-b2bc-005056a59fae,Огурцы миринда кг,1980,KZT,clevermarket.kz
-clever,astana,Овощи,1089,93493a61-d9fa-11ec-b2bc-005056a59fae,Картофель кг,290,KZT,clevermarket.kz
-clever,astana,Овощи,1089,0fc4e0f2-d9ff-11ec-b2bc-005056a59fae,Лук репчатый кг,220,KZT,clevermarket.kz
-clever,astana,Овощи,1089,ae870542-da01-11ec-b2bc-005056a59fae,Морковь кг,280,KZT,clevermarket.kz
-clever,astana,Овощи,1089,766ba69a-da08-11ec-b2bc-005056a59fae,Помидоры красные кг,1440,KZT,clevermarket.kz
-clever,astana,Овощи,1089,a2dcebe3-d9f3-11ec-b2bc-005056a59fae,Баклажаны кг,1750,KZT,clevermarket.kz
-clever,astana,Овощи,1089,41d2117b-d9f9-11ec-b2bc-005056a59fae,Кабачки кг,1125,KZT,clevermarket.kz
-clever,astana,Овощи,1089,7c95c671-e34e-11ed-b2d0-005056a59fae,Капуста белокочанная кг,270,KZT,clevermarket.kz
-clever,astana,Овощи,1089,dd285c25-da06-11ec-b2bc-005056a59fae,Свекла кг,340,KZT,clevermarket.kz
-clever,astana,Овощи,1089,93934da8-da0a-11ec-b2bc-005056a59fae,Укроп кг,2000,KZT,clevermarket.kz
-clever,astana,Овощи,1089,e95e4cea-d9f6-11ec-b2bc-005056a59fae,Грибы шампиньоны кг,3680,KZT,clevermarket.kz
-clever,astana,Овощи,1089,e4d0942a-da0a-11ec-b2bc-005056a59fae,Чеснок кг,1680,KZT,clevermarket.kz
-clever,astana,Овощи,1089,81cd8bcd-da06-11ec-b2bc-005056a59fae,Руккола кг,3500,KZT,clevermarket.kz
-clever,astana,Овощи,1089,834130e2-d9fb-11ec-b2bc-005056a59fae,Кинза кг,2875,KZT,clevermarket.kz
-clever,astana,Овощи,1089,67a7f0c6-d9fe-11ec-b2bc-005056a59fae,Лук зеленый кг,2875,KZT,clevermarket.kz
-clever,astana,Овощи,1089,dc221496-da02-11ec-b2bc-005056a59fae,Огурцы рава кг,1560,KZT,clevermarket.kz
-clever,astana,Овощи,1089,13e0fd9a-da0a-11ec-b2bc-005056a59fae,Томаты черри красные кг,2280,KZT,clevermarket.kz
-clever,astana,Овощи,1089,5d7794ba-da04-11ec-b2bc-005056a59fae,Петрушка кг,2000,KZT,clevermarket.kz
-clever,astana,Овощи,1089,121aecde-da0b-11ec-b2bc-005056a59fae,Шпинат кг,2375,KZT,clevermarket.kz
-clever,astana,Овощи,1089,57d2b381-da09-11ec-b2bc-005056a59fae,Помидоры розовые кг,1860,KZT,clevermarket.kz
-clever,astana,Овощи,1089,360b5af9-fc40-11ec-b2bf-005056a59fae,Салат Айсберг кг,1680,KZT,clevermarket.kz
-clever,astana,Овощи,1089,7e41ab86-da03-11ec-b2bc-005056a59fae,Перец светофор жёлтый кг,2160,KZT,clevermarket.kz
-clever,astana,Овощи,1089,b43cac6f-da05-11ec-b2bc-005056a59fae,Редис пучок  шт,460,KZT,clevermarket.kz
-clever,astana,Овощи,1089,bd5b1c17-da03-11ec-b2bc-005056a59fae,Перец светофор красный кг,2160,KZT,clevermarket.kz
-clever,astana,Овощи,1089,0db33052-d9fa-11ec-b2bc-005056a59fae,Капуста пекинская кг,580,KZT,clevermarket.kz
-clever,astana,Овощи,1089,1d183a90-da02-11ec-b2bc-005056a59fae,Мята кг,4375,KZT,clevermarket.kz
-clever,astana,Овощи,1089,320f402c-d9fa-11ec-b2bc-005056a59fae,Капуста цветная кг,1440,KZT,clevermarket.kz
-clever,astana,Овощи,1089,2e3772d6-bfd5-11ec-b2b6-005056a59fae,Микс салатный Green Eco красный + зеленый 120 гр,1200,KZT,clevermarket.kz
-clever,astana,Овощи,1089,7fd07a58-da04-11ec-b2bc-005056a59fae,Петрушка кудрявая кг,2375,KZT,clevermarket.kz
-clever,astana,Овощи,1089,6cae7930-d9f8-11ec-b2bc-005056a59fae,Джусай кг,2250,KZT,clevermarket.kz
-clever,astana,Овощи,1089,6c4786dc-d466-11ed-b2cd-005056a59fae,Грибы Еноки кг,1125,KZT,clevermarket.kz
-clever,astana,Овощи,1089,31c7ed2b-71bd-11ef-b2ec-9de26f945390,Аджика Солёныч острая 500 гр,8575,KZT,clevermarket.kz
-clever,astana,Молочка,1118,97a5e2e7-c75c-11ec-b2b9-005056a59fae,Яйцо Қазгер-Құс куриное С1 лоток 30 шт,1965,KZT,clevermarket.kz
-clever,astana,Молочка,1118,ec04551c-3ff8-11f0-b2f6-005056a59fae,"Масло сливочное Golden Milk натуральное 82,5% 200 гр фольга",1499,KZT,clevermarket.kz
-clever,astana,Молочка,1118,d79fea03-c61e-11ec-b2b8-005056a59fae,"Молоко Родина 3,2% 1 л тфа",539,KZT,clevermarket.kz
-clever,astana,Молочка,1118,2418762f-c61f-11ec-b2b8-005056a59fae,Творог Родина 5% 200 гр,395,KZT,clevermarket.kz
-clever,astana,Молочка,1118,d79fe9ff-c61e-11ec-b2b8-005056a59fae,"Молоко Зенченко 3,2% 900 мл тфа",539,KZT,clevermarket.kz
-clever,astana,Молочка,1118,97a5e2e5-c75c-11ec-b2b9-005056a59fae,Яйцо Қазгер-Құс куриное Отборные лоток 30 шт,2325,KZT,clevermarket.kz
-clever,astana,Молочка,1118,6d598052-c215-11ec-b2b6-005056a59fae,Йогурт Food Master греческий натуральный 8.4% 130 гр,399,KZT,clevermarket.kz
-clever,astana,Молочка,1118,606a890c-c216-11ec-b2b6-005056a59fae,Молоко Lactel с витамином D 2.5% 1 л т/п,795,KZT,clevermarket.kz
-clever,astana,Молочка,1118,fa0bdc9d-c61e-11ec-b2b8-005056a59fae,Сметана Зенченко 15% 400 гр,875,KZT,clevermarket.kz
-clever,astana,Молочка,1118,0049450a-c61f-11ec-b2b8-005056a59fae,Сметана Зенченко 20% 400 гр,899,KZT,clevermarket.kz
-clever,astana,Молочка,1118,fa0bdc9b-c61e-11ec-b2b8-005056a59fae,Сметана Зенченко 15% 200 гр,439,KZT,clevermarket.kz
-clever,astana,Молочка,1118,0049450e-c61f-11ec-b2b8-005056a59fae,Сметана Родина 20%  400 гр,899,KZT,clevermarket.kz
-clever,astana,Молочка,1118,1b96233a-cf97-11ed-b2ca-005056a59fae,"Масло Иртыш сливочное 72,5% 180 гр",1315,KZT,clevermarket.kz
-clever,astana,Молочка,1118,4735e0d7-cf97-11ed-b2ca-005056a59fae,"Спред Иртыш сливочный крестьянский 72,5% 180 гр",775,KZT,clevermarket.kz
-clever,astana,Молочка,1118,dabbc1fc-c215-11ec-b2b6-005056a59fae,Сметана President 15% 200 гр,509,KZT,clevermarket.kz
-clever,astana,Молочка,1118,f7882c92-c7a6-11ec-b2b9-005056a59fae,Сырок Вау Картошка глазированный 45 гр,239,KZT,clevermarket.kz
-clever,astana,Молочка,1118,606a890e-c216-11ec-b2b6-005056a59fae,Молоко Lactel c витамином D 3.2% 1 л т/п,855,KZT,clevermarket.kz
-clever,astana,Молочка,1118,bf9fdde2-c61e-11ec-b2b8-005056a59fae,"Кефир Зенченко 2,5% 900 мл пак",499,KZT,clevermarket.kz
-clever,astana,Молочка,1118,bf9fdde6-c61e-11ec-b2b8-005056a59fae,"Кефир Родина 2,5% 1 л тфа",499,KZT,clevermarket.kz
-clever,astana,Молочка,1118,00494512-c61f-11ec-b2b8-005056a59fae,Сметана Родина 30% 400 гр,1025,KZT,clevermarket.kz
-clever,astana,Молочка,1118,cb67db76-c61e-11ec-b2b8-005056a59fae,Масло сливочное Зенченко Крестьянское 72.5% 200 гр,1295,KZT,clevermarket.kz
-clever,astana,Молочка,1118,14ef0171-c61f-11ec-b2b8-005056a59fae,Снежок Родина 2% 1 л тфа,539,KZT,clevermarket.kz
-clever,astana,Молочка,1118,6d598054-c215-11ec-b2b6-005056a59fae,Йогурт Food Master греческий миндаль фисташки 7.0% 130 гр,399,KZT,clevermarket.kz
-clever,astana,Молочка,1118,c14c8a50-c215-11ec-b2b6-005056a59fae,"Биойогурт Био-С Food Master Ванильный Имун+ 3,2% 1 л т/п",835,KZT,clevermarket.kz
-clever,astana,Молочка,1118,6d598042-c215-11ec-b2b6-005056a59fae,Йогурт Food Master греческий ваниль 7.0% 130 гр,399,KZT,clevermarket.kz
-clever,astana,Молочка,1118,737a4868-c215-11ec-b2b6-005056a59fae,Йогурт Food Master греческий клубника 7.0% 130 гр,399,KZT,clevermarket.kz
-clever,astana,Молочка,1118,93ab62d0-ada7-11ed-b2ca-005056a59fae,"Ряженка Зенченко 2,5% 900 гр тфа",645,KZT,clevermarket.kz
-clever,astana,Молочка,1118,6d59804e-c215-11ec-b2b6-005056a59fae,Йогурт Food Master живой со вкусом клубники 110 гр,259,KZT,clevermarket.kz
-clever,astana,Молочка,1118,606a8909-c216-11ec-b2b6-005056a59fae,Молоко Lactel с витамином D 1.5% 1 л т/п,739,KZT,clevermarket.kz
-clever,astana,Молочка,1118,b1881d35-c215-11ec-b2b6-005056a59fae,Кефир Food Master 2.5% 0.5 л т/п,349,KZT,clevermarket.kz
-clever,astana,Молочка,1118,dabbc202-c215-11ec-b2b6-005056a59fae,Сметана President 20% 400 гр,799,KZT,clevermarket.kz
-clever,astana,Молочка,1118,f86eec20-c215-11ec-b2b6-005056a59fae,Масло сливочное President 82% 125 гр,1315,KZT,clevermarket.kz
-clever,astana,Молочка,1118,cb67db78-c61e-11ec-b2b8-005056a59fae,"Масло сливочное Родина Традиционное 82,5% 200 гр",1725,KZT,clevermarket.kz
-clever,astana,Молочка,1118,fe0ab69b-c7a6-11ec-b2b9-005056a59fae,Сырок Вау со сгущенкой глазированный 45 гр,239,KZT,clevermarket.kz
-clever,astana,Молочка,1118,6d59804c-c215-11ec-b2b6-005056a59fae,Йогурт Food Master Живой Персик 110 гр,259,KZT,clevermarket.kz
-clever,astana,Молочка,1118,c8da1da5-c215-11ec-b2b6-005056a59fae,Напиток кисломолочный Food Master Снежок 2% 900 мл т/п,749,KZT,clevermarket.kz
-clever,astana,Молочка,1118,f86eec2e-c215-11ec-b2b6-005056a59fae,Масло сливочное President 82% 400 гр,4179,KZT,clevermarket.kz
-clever,astana,Молочка,1118,475f4a7f-bd43-11ec-b2b6-005056a59fae,Коктейль молочный Чудо шоколад 2% 200 мл,465,KZT,clevermarket.kz
-clever,astana,Молочка,1118,dabbc1fa-c215-11ec-b2b6-005056a59fae,Сметана President домашняя 25% 385 гр,1025,KZT,clevermarket.kz
-clever,astana,Молочка,1118,b13be770-8665-11ed-b2c8-005056a59fae,"Молоко Шадринское 7,1% 500 гр т/п",1245,KZT,clevermarket.kz
-clever,astana,Молочка,1118,6d598050-c215-11ec-b2b6-005056a59fae,Йогурт Food Master Живой Вишня 110 гр,259,KZT,clevermarket.kz
-clever,astana,Молочка,1118,487f9ee1-bd40-11ec-b2b6-005056a59fae,Сливки Домик в деревне 10% 480 мл,1415,KZT,clevermarket.kz
-clever,astana,Молочка,1118,dbe369f0-c07b-11ec-b2b6-005056a59fae,Масло сливочное Эмиль Крестьянское 72.5% 200 гр,2159,KZT,clevermarket.kz
-clever,astana,Молочка,1118,475f4a81-bd43-11ec-b2b6-005056a59fae,Коктейль молочный Чудо ягодное мороженое 2% 200 мл,465,KZT,clevermarket.kz
-clever,astana,Молочка,1118,29b63e36-c17f-11ed-b2ca-005056a59fae,Масло сливочное Ясь Белоус несоленое 82.5% 180 гр,1749,KZT,clevermarket.kz
-clever,astana,Молочка,1118,487f9edf-bd40-11ec-b2b6-005056a59fae,Сливки Домик в деревне 10% 200 мл,665,KZT,clevermarket.kz
-clever,astana,Молочка,1118,29d9f0fd-c796-11ec-b2b9-005056a59fae,Сырок Простоквашино глазированный со вкусом ванили 40 гр,529,KZT,clevermarket.kz
-clever,astana,Молочка,1118,cc862f28-4e4b-11ef-b2ea-9de26f945390,Молоко Гост ультрапастеризованное 6% 900 мл ф/п,595,KZT,clevermarket.kz
-clever,astana,Молочка,1118,b92be37e-3867-11ef-b2e9-9de26f945390,"Молоко Деревенское 3,2% 2 л тва",1259,KZT,clevermarket.kz
-clever,astana,Молочка,1118,dabbc200-c215-11ec-b2b6-005056a59fae,Сметана President 20% 200 гр,565,KZT,clevermarket.kz
-clever,astana,Молочка,1118,bb0801f7-c794-11ec-b2b9-005056a59fae,Йогурт Danone со вкусом Персика и Маракуйя 120 гр,269,KZT,clevermarket.kz
-clever,astana,Молочка,1118,70823048-cf96-11ed-b2ca-005056a59fae,"Масло сливочное Златые горы Пастушье 72,5% 180 гр",419,KZT,clevermarket.kz
-clever,astana,Молочка,1118,e9cdd0f0-b6cc-11ec-b2b6-005056a59fae,Молоко Шадринское 6% 950 мл т/п,1725,KZT,clevermarket.kz
-clever,astana,Молочка,1118,c8da1da3-c215-11ec-b2b6-005056a59fae,Напиток кисломолочный Food Master Снежок 2% 450 мл т/п,385,KZT,clevermarket.kz
-clever,astana,Молочка,1118,b48311e5-c794-11ec-b2b9-005056a59fae,Йогурт Danone со вкусом Клубники 120 гр,269,KZT,clevermarket.kz
-clever,astana,Молочка,1118,ceb829cc-bfde-11ec-b2b6-005056a59fae,Масло сливочное 3 Желания к чаю 60% 230 гр,339,KZT,clevermarket.kz
-clever,astana,Молочка,1118,db0b6984-cf96-11ed-b2ca-005056a59fae,"Масло сливочное Златые горы Крестьянское новое 72,5% 180 гр",769,KZT,clevermarket.kz
-clever,astana,Молочка,1118,79f3ce3f-c7a6-11ec-b2b9-005056a59fae,Молоко Просто 6% 0.9 л тфа,755,KZT,clevermarket.kz
-clever,astana,Молочка,1118,0f77ac27-3868-11ef-b2e9-9de26f945390,Молоко сгущенное Варенка с сахаром 12% 360 гр ж/б,695,KZT,clevermarket.kz
-clever,astana,Молочка,1118,475f4a8d-bd43-11ec-b2b6-005056a59fae,Коктейль молочный Чудо клубника 2% 950 мл,1295,KZT,clevermarket.kz
-clever,astana,Молочка,1118,d976b8b5-cf95-11ed-b2ca-005056a59fae,Масло сливочное 3 Желания к чаю 60% 380 гр,565,KZT,clevermarket.kz
-clever,astana,Молочка,1118,f86eec11-c215-11ec-b2b6-005056a59fae,Масло сливочное President Ля Мот 82% с морской солью 250 гр,2815,KZT,clevermarket.kz
-clever,astana,Молочка,1118,7f239806-feae-11ec-b2bf-005056a59fae,Масло сливочное Эмиль Крестьянское 72.5% кг,8579,KZT,clevermarket.kz
-clever,astana,Молочка,1118,73f92935-c7a6-11ec-b2b9-005056a59fae,"Молоко Новый день 3,2% 1л тфа",715,KZT,clevermarket.kz
-clever,astana,Молочка,1118,c08446e9-bfde-11ec-b2b6-005056a59fae,Маргарин 3 Желания Сливочный 180 гр,235,KZT,clevermarket.kz
-clever,astana,Молочка,1118,d27e76c5-4e4b-11ef-b2ea-9de26f945390,"Молоко В лучших традициях ультрапастеризованное 3,2% 900 мл кувшин",625,KZT,clevermarket.kz
-clever,astana,Молочка,1118,ba99610c-cf95-11ed-b2ca-005056a59fae,Маргарин 3 Желания Пампушка 55% 450 гр,425,KZT,clevermarket.kz
-clever,astana,Молочка,1118,1b7418f3-3868-11ef-b2e9-9de26f945390,"Молоко сгущенное Сгущенка Керемет с сахаром 8,5% 330 гр ж/б",605,KZT,clevermarket.kz
-clever,astana,Молочка,1118,dc17a2e3-b95f-11ec-b2b6-005056a59fae,Молокосодержащий продукт Милоко ультрапастеризованный с заменителем молочного жира 3.2% 0.95 л т/п,685,KZT,clevermarket.kz
-clever,astana,Молочка,1118,475f4a93-bd43-11ec-b2b6-005056a59fae,Коктейль молочный Чудо ягодное мороженое 2% 950 мл,1295,KZT,clevermarket.kz
-clever,astana,Молочка,1118,8d10462c-3867-11ef-b2e9-9de26f945390,Масло Петропавловское особое сливочно растительное 70% 180 гр,399,KZT,clevermarket.kz
-clever,astana,Молочка,1118,5607d1ce-cf96-11ed-b2ca-005056a59fae,"Масло сливочное Златые горы Деревенское 72,5% 180 гр",1315,KZT,clevermarket.kz
-clever,astana,Молочка,1118,73f92939-c7a6-11ec-b2b9-005056a59fae,Молоко Новый день 6% 1 л тфа,799,KZT,clevermarket.kz
-clever,astana,Молочка,1118,b92be1c5-3867-11ef-b2e9-9de26f945390,"Молокосодержащий продукт Буренка 3,2% 800 мл",455,KZT,clevermarket.kz
-clever,astana,Молочка,1118,2178462b-3868-11ef-b2e9-9de26f945390,"Сгущенка Лакомка 8,5% 250 гр дой-пак",455,KZT,clevermarket.kz
-clever,astana,Молочка,1118,e9f82de8-a0b0-11ef-b2ef-005056a59fae,"Масло кислосливочное President высший сорт несоленое 72,5% 180 гр",1095,KZT,clevermarket.kz
-clever,astana,Молочка,1118,2921f880-a482-11f0-b30d-a1cb80a0054b,"Кефир безлактозный Food Master Легкое утро 2,5% 1 л",679,KZT,clevermarket.kz
-clever,astana,Молочка,1118,67fee5c7-39d3-11ef-b2e9-9de26f945390,"Молоко Глубокское стерилизованное 6,8% 300 гр",591,KZT,clevermarket.kz
-clever,astana,Молочка,1118,fb09921e-b932-11ec-b2b6-005056a59fae,Молоко Глубокское Фермерское 7.2% 300 гр ж/б,625,KZT,clevermarket.kz
-clever,astana,Молочка,1118,f87cc1d4-da06-11ef-b2f4-005056a59fae,Бидай Эко Дом Коржын 250 гр,945,KZT,clevermarket.kz
-clever,astana,Молочка,1118,c4bb4456-0091-11f0-b2f6-005056a59fae,"Биойогурт Food Master Фисташка 3,2% 900 гр",835,KZT,clevermarket.kz
-clever,astana,Молочка,1118,d153a01d-a0b0-11ef-b2ef-005056a59fae,"Йогурт Food Master Греческий натуральный 8,4% 300 гр",719,KZT,clevermarket.kz
-clever,astana,Молочка,1118,09e55231-606b-11f0-b2f7-005056a59fae,Коктейль молочный Чудо Бабл-гам 2% 950 мл,1295,KZT,clevermarket.kz
-clever,astana,Молочка,1118,a8019ce0-bd43-11ec-b2b6-005056a59fae,Коктейль молочный Чудо ваниль 2% 200 мл,465,KZT,clevermarket.kz
-clever,astana,Молочка,1118,82ee7014-09d0-11ee-b2d7-005056a59fae,Курт жидкий Ауыл Өнімдері для сорпы среднесоленый 300 гр контейнер,1499,KZT,clevermarket.kz
-clever,astana,Молочка,1118,53a0c587-da07-11ef-b2f4-005056a59fae,Курт Эко Дом верблюжий серия Коржын 200 гр,1655,KZT,clevermarket.kz
-clever,astana,Молочка,1118,7da3dae4-da07-11ef-b2f4-005056a59fae,Курт Эко Дом кислосладкий серия Коржын 200 гр,1779,KZT,clevermarket.kz
-clever,astana,Молочка,1118,973fcfb1-da07-11ef-b2f4-005056a59fae,Курт Эко Дом сладкий серия Коржын 200 гр,1779,KZT,clevermarket.kz
-clever,astana,Молочка,1118,ab6c5e4e-da07-11ef-b2f4-005056a59fae,Курт Эко Дом соленый серия Коржын 200 гр,1445,KZT,clevermarket.kz
-clever,astana,Молочка,1118,ca8b91db-da07-11ef-b2f4-005056a59fae,Курт Эко Дом фруктовый серия Коржын 150 гр,1365,KZT,clevermarket.kz
-clever,astana,Молочка,1118,e0d0212e-da07-11ef-b2f4-005056a59fae,Курт Эко Дом фруктовый серия Коржын 200 гр,1809,KZT,clevermarket.kz
-clever,astana,Молочка,1118,1e43ca37-da07-11ef-b2f4-005056a59fae,Курт Эко Дом фруктовый серия Коржын 400 гр,3255,KZT,clevermarket.kz
-clever,astana,Молочка,1118,c08446eb-bfde-11ec-b2b6-005056a59fae,Маргарин 3 Желания Домашний 180 гр,205,KZT,clevermarket.kz
-clever,astana,Молочка,1118,99b913ae-9f7c-11f0-b30a-db409a45c405,"Масло Gastronomy Lab сливочное 72,5% 200 гр",1379,KZT,clevermarket.kz
-clever,astana,Молочка,1118,8589b92d-9f7d-11f0-b30a-db409a45c405,"Масло Gastronomy Lab сливочное 82,5% 200 гр",1749,KZT,clevermarket.kz
-clever,astana,Молочка,1118,07b3cd96-cf97-11ed-b2ca-005056a59fae,"Масло Иртыш сливочное натуральное 82,5% 180 гр",1499,KZT,clevermarket.kz
-clever,astana,Молочка,1118,bff61f96-985a-11f0-b305-a2aaba099fc9,Масло кислосливочное President 60% 200 гр ванна,1965,KZT,clevermarket.kz
-clever,astana,Молочка,1118,d00aa476-9859-11f0-b305-a2aaba099fc9,Масло кислосливочное President 60% 200 гр фольга,1735,KZT,clevermarket.kz
-clever,astana,Молочка,1118,a8ad9b8d-a482-11f0-b30d-a1cb80a0054b,Масло кислосливочное President соленое 80% 180 гр,1749,KZT,clevermarket.kz
-clever,astana,Молочка,1118,94f17195-9f43-11f0-b30a-db409a45c405,Масло Северное сливочное 250 гр,3265,KZT,clevermarket.kz
-clever,astana,Молочка,1118,e9f82e49-a0b0-11ef-b2ef-005056a59fae,Масло сливочное President 82% 1 кг ролл,10525,KZT,clevermarket.kz
-clever,astana,Молочка,1118,3599ecac-cf96-11ed-b2ca-005056a59fae,Масло сливочное Златые горы Элитное 82% 180 гр,1499,KZT,clevermarket.kz
-clever,astana,Молочка,1118,1b34d89f-c304-11ed-b2ca-005056a59fae,"Масло сливочное Новый день Крестьянское 72,5% 1000 гр в тубе",6325,KZT,clevermarket.kz
-clever,astana,Молочка,1118,7d153dfa-1536-11f0-b2f6-005056a59fae,"Масло сливочное Новый день Крестьянское 72,5% 180 гр фольга",1425,KZT,clevermarket.kz
-clever,astana,Молочка,1118,8a307aec-ea96-11ef-b2f5-005056a59fae,"Масло сливочное Родина Традиционное 72,5% 200 гр",1295,KZT,clevermarket.kz
-clever,astana,Молочка,1118,8a4eb1bd-bfc4-11ec-b2b6-005056a59fae,Масло сливочное Село Лесное 72.5% 180 гр,1465,KZT,clevermarket.kz
-clever,astana,Молочка,1118,af7c87f8-3ff8-11f0-b2f6-005056a59fae,"Молоко Golden Milk 2,5% 0,9 л т/ф",699,KZT,clevermarket.kz
-clever,astana,Молочка,1118,dc17a2d9-b95f-11ec-b2b6-005056a59fae,Молоко Айналайын ультрапастеризованное 6% 1 л т/п,1125,KZT,clevermarket.kz
-clever,astana,Молочка,1118,e3ab2bec-3f15-11f0-b2f6-005056a59fae,"Молоко Бабушкина Крынка питьевое ультрапастеризованное 1,5% 1 л",899,KZT,clevermarket.kz
-clever,astana,Молочка,1118,beead577-3867-11ef-b2e9-9de26f945390,"Молоко концентрированное MilkoBo 7,5% 500 мл тва",705,KZT,clevermarket.kz
-clever,astana,Молочка,1118,f702cc5e-3867-11ef-b2e9-9de26f945390,Молоко Петропавловское 6% 900 мл тфа,735,KZT,clevermarket.kz
-clever,astana,Молочка,1118,16f8b35e-c795-11ec-b2b9-005056a59fae,"Молоко Простоквашино 2,5% 950 мл т/п",1345,KZT,clevermarket.kz
-clever,astana,Молочка,1118,dc17a2db-b95f-11ec-b2b6-005056a59fae,Молокосодержащий продукт Буренкино ультрапастеризованный 2.5% 1.95 л т/п,1205,KZT,clevermarket.kz
-clever,astana,Молочка,1118,dc17a2dd-b95f-11ec-b2b6-005056a59fae,Молокосодержащий продукт Буренкино ультрапастеризованный 3.2% 1.95 л т/п,1275,KZT,clevermarket.kz
-clever,astana,Молочка,1118,dc17a2df-b95f-11ec-b2b6-005056a59fae,Молокосодержащий продукт Буренкино ультрапастеризованный 6% 1.95 л т/п,1345,KZT,clevermarket.kz
-clever,astana,Молочка,1118,dc17a2d3-b95f-11ec-b2b6-005056a59fae,Молокосодержащий продукт Милоко ультрапастеризованный с заменителем молочного жира 3.2% 1.95 л т/п,1275,KZT,clevermarket.kz
-clever,astana,Молочка,1118,dc17a2d5-b95f-11ec-b2b6-005056a59fae,Молокосодержащий продукт Милоко ультрапастеризованный с заменителем молочного жира 6% 1.95 л т/п,1345,KZT,clevermarket.kz
-clever,astana,Молочка,1118,819b0c5b-041d-11f0-b2f6-005056a59fae,Напиток кисломолочный Food Master Снежок 2% 900 мл м/у,615,KZT,clevermarket.kz
-clever,astana,Молочка,1118,d6e39649-ce9b-11f0-b31e-903b17606e31,Сливки Laciata для кофе 10% 10*10 гр,565,KZT,clevermarket.kz
-clever,astana,Молочка,1118,fc320aca-a0b0-11ef-b2ef-005056a59fae,Сливки President 11% 200 гр,759,KZT,clevermarket.kz
-clever,astana,Молочка,1118,11b3c14b-c796-11ec-b2b9-005056a59fae,Сливки Простоквашино 10% 205 мл т/п,679,KZT,clevermarket.kz
-clever,astana,Молочка,1118,f61ff45c-24d7-11f0-b2f6-005056a59fae,Сливки Простоквашино 10% 500 мл,1519,KZT,clevermarket.kz
-clever,astana,Молочка,1118,095168c7-a0b1-11ef-b2ef-005056a59fae,Сметана President 10% 400 гр пл/стакан,795,KZT,clevermarket.kz
-clever,astana,Молочка,1118,d16e577d-a0b1-11ef-b2ef-005056a59fae,Сырок глазированный Food Master  Живой Клубника 15% 36 гр,305,KZT,clevermarket.kz
-clever,astana,Молочка,1118,d16e57ac-a0b1-11ef-b2ef-005056a59fae,Сырок глазированный Food Master Живой Ваниль 16% 36 гр,305,KZT,clevermarket.kz
-clever,astana,Молочка,1118,d16e5adb-a0b1-11ef-b2ef-005056a59fae,Сырок глазированный Food Master Живой Вареная сгущенка 15% 36 гр,305,KZT,clevermarket.kz
-clever,astana,Молочка,1118,da398ac2-9f43-11f0-b30a-db409a45c405,Творог Северное 500 гр зам,1895,KZT,clevermarket.kz
-clever,astana,Молочка,1118,efc621e3-a0b1-11ef-b2ef-005056a59fae,ТворожокFood Master Сүзбеше Клубника 4% 100 гр пл/с,355,KZT,clevermarket.kz
-clever,astana,Молочка,1118,f3016975-a0b1-11ef-b2ef-005056a59fae,ТворожокFood Master Сүзбеше Персик 4% 100 гр пл/с,355,KZT,clevermarket.kz
+store,city,category_name,category_id,product_id,product_name,price_kzt,currency,source
+clever,astana,"Овощи, зелень, грибы, соленья",1089,bb4b73fb-da02-11ec-b2bc-005056a59fae,Огурцы миринда кг,1980,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,93493a61-d9fa-11ec-b2bc-005056a59fae,Картофель кг,290,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,0fc4e0f2-d9ff-11ec-b2bc-005056a59fae,Лук репчатый кг,220,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,ae870542-da01-11ec-b2bc-005056a59fae,Морковь кг,280,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,766ba69a-da08-11ec-b2bc-005056a59fae,Помидоры красные кг,1440,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,a2dcebe3-d9f3-11ec-b2bc-005056a59fae,Баклажаны кг,1750,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,7c95c671-e34e-11ed-b2d0-005056a59fae,Капуста белокочанная кг,270,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,dd285c25-da06-11ec-b2bc-005056a59fae,Свекла кг,340,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,93934da8-da0a-11ec-b2bc-005056a59fae,Укроп кг,2000,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,c2a02c8d-d9fd-11ec-b2bc-005056a59fae,Листья салата кг,1625,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,e95e4cea-d9f6-11ec-b2bc-005056a59fae,Грибы шампиньоны кг,3680,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,e4d0942a-da0a-11ec-b2bc-005056a59fae,Чеснок кг,1680,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,81cd8bcd-da06-11ec-b2bc-005056a59fae,Руккола кг,3500,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,834130e2-d9fb-11ec-b2bc-005056a59fae,Кинза кг,2875,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,67a7f0c6-d9fe-11ec-b2bc-005056a59fae,Лук зеленый кг,2875,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,dc221496-da02-11ec-b2bc-005056a59fae,Огурцы рава кг,1560,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,13e0fd9a-da0a-11ec-b2bc-005056a59fae,Томаты черри красные кг,2280,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,5d7794ba-da04-11ec-b2bc-005056a59fae,Петрушка кг,2000,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,c17f9abd-d9f9-11ec-b2bc-005056a59fae,Капуста брокколи кг,1560,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,121aecde-da0b-11ec-b2bc-005056a59fae,Шпинат кг,2375,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,57d2b381-da09-11ec-b2bc-005056a59fae,Помидоры розовые кг,1860,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,360b5af9-fc40-11ec-b2bf-005056a59fae,Салат Айсберг кг,1680,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,7e41ab86-da03-11ec-b2bc-005056a59fae,Перец светофор жёлтый кг,2160,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,b43cac6f-da05-11ec-b2bc-005056a59fae,Редис пучок  шт,460,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,5dac11b1-da07-11ec-b2bc-005056a59fae,Сельдерей (стебель) кг,1125,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,0db33052-d9fa-11ec-b2bc-005056a59fae,Капуста пекинская кг,580,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,1d183a90-da02-11ec-b2bc-005056a59fae,Мята кг,4375,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,320f402c-d9fa-11ec-b2bc-005056a59fae,Капуста цветная кг,1440,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,18771b4e-d9f9-11ec-b2bc-005056a59fae,Имбирь кг,2640,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,50384412-a850-11ed-b2c9-005056a59fae,Микс салатный Green Eco мультивитамин 120 гр,1199,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,3436e024-bfd5-11ec-b2b6-005056a59fae,Салат Green Eco батавия в горшке 150 гр,945,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,2e3772d6-bfd5-11ec-b2b6-005056a59fae,Микс салатный Green Eco красный + зеленый 120 гр,1200,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,7fd07a58-da04-11ec-b2bc-005056a59fae,Петрушка кудрявая кг,2375,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,2e3772cc-bfd5-11ec-b2b6-005056a59fae,Смесь салатная Fitness Green Eco в контейнере 120 гр,1490,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,3436e02c-bfd5-11ec-b2b6-005056a59fae,Базилик зеленый Green Eco в горшке 80 гр,885,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,6cae7930-d9f8-11ec-b2bc-005056a59fae,Джусай кг,2250,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,2e3772ce-bfd5-11ec-b2b6-005056a59fae,Смесь салатная Green Eco Family в контейнере 120 гр,1490,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,2373550b-bfd5-11ec-b2b6-005056a59fae,Салат Green Eco Лолло Бионда 150 гр,945,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,9a5d8337-da03-11ec-b2bc-005056a59fae,Перец светофор зелёный кг,2160,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,6c4786dc-d466-11ed-b2cd-005056a59fae,Грибы Еноки кг,1125,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,b5697e82-71bc-11ef-b2ec-9de26f945390,Капуста квашеная Солёныч с клюквой 850 гр,895,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,bdae262d-71bb-11ef-b2ec-9de26f945390,Капуста квашеная Солёныч 850 гр,795,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,4e1e382d-71b3-11ef-b2ec-9de26f945390,Морковь по-корейски Солёныч 450 гр,695,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,31c7ed2b-71bd-11ef-b2ec-9de26f945390,Аджика Солёныч острая 500 гр,8575,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,900d0556-71b5-11ef-b2ec-9de26f945390,Капуста квашеная Солёныч со свеклой 850 гр,955,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,2e3772d4-bfd5-11ec-b2b6-005056a59fae,Салат Green Eco Лолло росса 150 гр,945,KZT,clevermarket.kz
+clever,astana,"Овощи, зелень, грибы, соленья",1089,2e3772ca-bfd5-11ec-b2b6-005056a59fae,Салат Green Eco Трио в горшке 150 гр,1025,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,27f09269-d9f4-11ec-b2bc-005056a59fae,Бананы кг,1190,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,164595af-da0c-11ec-b2bc-005056a59fae,Яблоки Лимонка кг,940,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,de48cc3b-d9f4-11ec-b2bc-005056a59fae,Виноград Кишмиш кг,1750,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,175ae37b-da0d-11ec-b2bc-005056a59fae,Яблоки Семеренко кг,1000,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,3baadf44-d9f5-11ec-b2bc-005056a59fae,Виноград черный кг,1500,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,9215ce7d-d9fd-11ec-b2bc-005056a59fae,Лимон кг,2250,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,6aa3734d-da0d-11ec-b2bc-005056a59fae,Яблоки Айдаред кг,1125,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,dcca67bb-d9f5-11ec-b2bc-005056a59fae,Гранат кг,1875,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,42de9870-365b-11ee-b2e0-005056a59fae,Груша Лесная красавица кг,1375,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,534029d5-d9f2-11ec-b2bc-005056a59fae,Апельсины Египет кг,1500,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,5613820f-d9fb-11ec-b2bc-005056a59fae,Киви корзина  шт,1065,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,042de759-da01-11ec-b2bc-005056a59fae,Мандарины Турция кг,1750,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,cbec7fee-d9f7-11ec-b2bc-005056a59fae,Груша Конференция кг,2000,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,5618fb66-d9f6-11ec-b2bc-005056a59fae,Грейпфрут Турция кг,1750,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,aa35d656-da0c-11ec-b2bc-005056a59fae,Яблоки Салтанат  кг,1375,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,9d997cf2-d9f7-11ec-b2bc-005056a59fae,Груша Дюшес кг,1125,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,df2fe4b6-da00-11ec-b2bc-005056a59fae,Мандарины с листочками кг,1500,KZT,clevermarket.kz
+clever,astana,"Фрукты, ягоды",1090,04b7d97d-ad0c-11ed-b2ca-005056a59fae,Хурма кг,1250,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,5f967cba-bfe1-11ec-b2b6-005056a59fae,Филе грудки цыпленка бройлера Кус Вкус на подложке охлажденное кг,2955,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,0de1a556-bfe1-11ec-b2b6-005056a59fae,Голень цыпленка бройлера Кус Вкус на подложке охлажденная кг,2495,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,d683a87f-bfe0-11ec-b2b6-005056a59fae,Бедро цыпленка бройлера Кус Вкус на подложке охлажденное кг,1925,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,2705de2d-3cbf-11ee-b2e0-005056a59fae,Филе бедра цыпленка бройлера Кус Вкус на подложке охлажденная кг,2955,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,cf4d6ab9-bfe1-11ec-b2b6-005056a59fae,Филе UKPF на подложке замороженное кг,2125,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,a7d3be99-bfe0-11ec-b2b6-005056a59fae,Цыпленок бройлера Кус Вкус 1 категории на подложке охлажденный кг,1969,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,367a4d85-bfe1-11ec-b2b6-005056a59fae,Крыло цыпленка бройлера Кус Вкус на подложке охлажденное кг,2545,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,8e703680-bfe2-11ec-b2b6-005056a59fae,Бедро UKPF на подложке замороженное кг,1845,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,68e327bd-bfe2-11ec-b2b6-005056a59fae,Крыло UKPF на подложке замороженное кг,1999,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,a270bb6f-bfe1-11ec-b2b6-005056a59fae,Цыпленок UKPF замороженный кг,1699,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,a8b64d9d-bfe2-11ec-b2b6-005056a59fae,Голень UKPF на подложке замороженная кг,2125,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,24a1e8fb-bfe3-11ec-b2b6-005056a59fae,Сердце UKPF куриное замороженное кг,1499,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,853e8eb7-b444-11ee-b2e3-005056a59fae,Кость Трубчатая KazBeef говяжья замороженная кг,4379,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,f949de27-757b-11ef-b2ec-9de26f945390,Бедро цыпленка бройлера Chickodelli замороженное кг,2349,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,9b62e1c0-40d2-11ee-b2e0-005056a59fae,Голень цыпленка бройлера Chickodelli замороженная кг,2705,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,9561d040-40d5-11ee-b2e0-005056a59fae,Окорочок цыпленка бройлера Chickodelli замороженный кг,2119,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,2600a784-76cc-11ed-b2c8-005056a59fae,Стейк KazBeef ОссоБуко замороженный кг,9725,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,9d49f26f-757e-11ef-b2ec-9de26f945390,Цыпленок бройлера Chickodelli замороженный кг,2219,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,d9b22de8-40d3-11ee-b2e0-005056a59fae,Крыло цыпленка бройлера Chickodelli замороженное кг,2925,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,d5965b72-7256-11ee-b2e0-005056a59fae,Мякоть бедра KazBeef из мраморной говядины замороженная кг,9199,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,b71fb239-7256-11ee-b2e0-005056a59fae,Мякоть лопатки KazBeef из мраморной говядины замороженная кг,8529,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,ffc7286a-bfe2-11ec-b2b6-005056a59fae,Печень UKPF куриная замороженная кг,939,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,b5d5c3e1-76ca-11ed-b2c8-005056a59fae,Стейк KazBeef Пиканья замороженный кг,11245,KZT,clevermarket.kz
+clever,astana,"Мясо, птица",1162,d386b688-76ca-11ed-b2c8-005056a59fae,Стейк KazBeef Трай-тип замороженный кг,12495,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,d79fea03-c61e-11ec-b2b8-005056a59fae,"Молоко Родина 3,2% 1 л тфа",539,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,d79fe9ff-c61e-11ec-b2b8-005056a59fae,"Молоко Зенченко 3,2% 900 мл тфа",539,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,9db86357-c75c-11ec-b2b9-005056a59fae,Яйцо Қазгер-Құс куриное Премиум лоток 20 шт,1575,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,97a5e2e5-c75c-11ec-b2b9-005056a59fae,Яйцо Қазгер-Құс куриное Отборные лоток 30 шт,2325,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,6d598052-c215-11ec-b2b6-005056a59fae,Йогурт Food Master греческий натуральный 8.4% 130 гр,399,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,606a890c-c216-11ec-b2b6-005056a59fae,Молоко Lactel с витамином D 2.5% 1 л т/п,795,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,0049450a-c61f-11ec-b2b8-005056a59fae,Сметана Зенченко 20% 400 гр,899,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,fa0bdc9b-c61e-11ec-b2b8-005056a59fae,Сметана Зенченко 15% 200 гр,439,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,4735e0d7-cf97-11ed-b2ca-005056a59fae,"Спред Иртыш сливочный крестьянский 72,5% 180 гр",775,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,dabbc1fc-c215-11ec-b2b6-005056a59fae,Сметана President 15% 200 гр,509,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,606a890e-c216-11ec-b2b6-005056a59fae,Молоко Lactel c витамином D 3.2% 1 л т/п,855,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,bf9fdde2-c61e-11ec-b2b8-005056a59fae,"Кефир Зенченко 2,5% 900 мл пак",505,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,bf9fdde6-c61e-11ec-b2b8-005056a59fae,"Кефир Родина 2,5% 1 л тфа",505,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,00494512-c61f-11ec-b2b8-005056a59fae,Сметана Родина 30% 400 гр,1025,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,93ba7ca6-c07b-11ec-b2b6-005056a59fae,Творог Эмиль 5% 380 гр,1455,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,14ef0171-c61f-11ec-b2b8-005056a59fae,Снежок Родина 2% 1 л тфа,625,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,6d598054-c215-11ec-b2b6-005056a59fae,Йогурт Food Master греческий миндаль фисташки 7.0% 130 гр,399,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,c14c8a50-c215-11ec-b2b6-005056a59fae,"Биойогурт Био-С Food Master Ванильный Имун+ 3,2% 1 л т/п",835,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,6d598042-c215-11ec-b2b6-005056a59fae,Йогурт Food Master греческий ваниль 7.0% 130 гр,399,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,97a5e2ef-c75c-11ec-b2b9-005056a59fae,Яйцо Қазгер-Құс куриное С1 10 шт,699,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,97a5e2f1-c75c-11ec-b2b9-005056a59fae,Яйцо Қазгер-Құс куриное Премиум 15 шт,1259,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,737a4868-c215-11ec-b2b6-005056a59fae,Йогурт Food Master греческий клубника 7.0% 130 гр,399,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,97a5e2ed-c75c-11ec-b2b9-005056a59fae,Яйцо Қазгер-Құс куриное Отборные 10 шт,825,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,6d59804e-c215-11ec-b2b6-005056a59fae,Йогурт Food Master живой со вкусом клубники 110 гр,259,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,606a8909-c216-11ec-b2b6-005056a59fae,Молоко Lactel с витамином D 1.5% 1 л т/п,739,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,f86eec20-c215-11ec-b2b6-005056a59fae,Масло сливочное President 82% 125 гр,1315,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,cb67db78-c61e-11ec-b2b8-005056a59fae,"Масло сливочное Родина Традиционное 82,5% 200 гр",2015,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,fe0ab69b-c7a6-11ec-b2b9-005056a59fae,Сырок Вау со сгущенкой глазированный 45 гр,239,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,c8da1da5-c215-11ec-b2b6-005056a59fae,Напиток кисломолочный Food Master Снежок 2% 900 мл т/п,659,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,6d59804c-c215-11ec-b2b6-005056a59fae,Йогурт Food Master Живой Персик 110 гр,259,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,36a7c976-05f0-11ef-b2e7-005056a59fae,Творожная масса Эмиль малина 4.5% 180 гр,799,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,475f4a7f-bd43-11ec-b2b6-005056a59fae,Коктейль молочный Чудо шоколад 2% 200 мл,465,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,dabbc1fa-c215-11ec-b2b6-005056a59fae,Сметана President домашняя 25% 385 гр,1025,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,93ba7ca2-c07b-11ec-b2b6-005056a59fae,Творог Эмиль Крестьянский 5% 200 гр,1025,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,6d598050-c215-11ec-b2b6-005056a59fae,Йогурт Food Master Живой Вишня 110 гр,259,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,77df62a1-c07b-11ec-b2b6-005056a59fae,"Кефир Эмиль 2.5% 0,9 л т/п",945,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,dbe369f0-c07b-11ec-b2b6-005056a59fae,Масло сливочное Эмиль Крестьянское 72.5% 200 гр,2159,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,210c84bf-c07c-11ec-b2b6-005056a59fae,Творожная масса Эмиль с ванилином 4.5% 180 гр,799,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,475f4a81-bd43-11ec-b2b6-005056a59fae,Коктейль молочный Чудо ягодное мороженое 2% 200 мл,465,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,029cdcd3-c07c-11ec-b2b6-005056a59fae,Токтамыш Эмиль 2.5% 900 гр т/п,1095,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,29b63e36-c17f-11ed-b2ca-005056a59fae,Масло сливочное Ясь Белоус несоленое 82.5% 180 гр,1749,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,210c84bd-c07c-11ec-b2b6-005056a59fae,Творожная масса Эмиль с грецким орехом 4.5% 180 гр,799,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,487f9edf-bd40-11ec-b2b6-005056a59fae,Сливки Домик в деревне 10% 200 мл,665,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,30a8673b-05f0-11ef-b2e7-005056a59fae,Творожная масса Эмиль клубника 4.5% 180 гр,799,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,210c84bb-c07c-11ec-b2b6-005056a59fae,Творожная масса Эмиль с изюмом 4.5% 180 гр,799,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,dabbc200-c215-11ec-b2b6-005056a59fae,Сметана President 20% 200 гр,495,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,b92be37e-3867-11ef-b2e9-9de26f945390,"Молоко Деревенское 3,2% 2 л тва",1259,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,bb0801f7-c794-11ec-b2b9-005056a59fae,Йогурт Danone со вкусом Персика и Маракуйя 120 гр,269,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,70823048-cf96-11ed-b2ca-005056a59fae,"Масло сливочное Златые горы Пастушье 72,5% 180 гр",419,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,e9cdd0f0-b6cc-11ec-b2b6-005056a59fae,Молоко Шадринское 6% 950 мл т/п,1725,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,b48311e5-c794-11ec-b2b9-005056a59fae,Йогурт Danone со вкусом Клубники 120 гр,269,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,ceb829cc-bfde-11ec-b2b6-005056a59fae,Масло сливочное 3 Желания к чаю 60% 230 гр,339,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,db0b6984-cf96-11ed-b2ca-005056a59fae,"Масло сливочное Златые горы Крестьянское новое 72,5% 180 гр",769,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,c8da1da3-c215-11ec-b2b6-005056a59fae,Напиток кисломолочный Food Master Снежок 2% 450 мл т/п,439,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,79f3ce3f-c7a6-11ec-b2b9-005056a59fae,Молоко Просто 6% 0.9 л тфа,755,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,0f77ac27-3868-11ef-b2e9-9de26f945390,Молоко сгущенное Варенка с сахаром 12% 360 гр ж/б,695,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,210c84b9-c07c-11ec-b2b6-005056a59fae,Творожная масса Эмиль с курагой 4.5% 180 гр,799,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,d976b8b5-cf95-11ed-b2ca-005056a59fae,Масло сливочное 3 Желания к чаю 60% 380 гр,565,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,2840fe79-c07b-11ec-b2b6-005056a59fae,Сметана Эмиль домашняя 25% стакан 280 мл,1485,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,f86eec11-c215-11ec-b2b6-005056a59fae,Масло сливочное President Ля Мот 82% с морской солью 250 гр,2815,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,7f239806-feae-11ec-b2bf-005056a59fae,Масло сливочное Эмиль Крестьянское 72.5% кг,8579,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,73f92935-c7a6-11ec-b2b9-005056a59fae,"Молоко Новый день 3,2% 1л тфа",715,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,c08446e9-bfde-11ec-b2b6-005056a59fae,Маргарин 3 Желания Сливочный 180 гр,235,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,d27e76c5-4e4b-11ef-b2ea-9de26f945390,"Молоко В лучших традициях ультрапастеризованное 3,2% 900 мл кувшин",625,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,2a19c707-05f0-11ef-b2e7-005056a59fae,Сметана Эмиль 20% 380 гр,1449,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,ba99610c-cf95-11ed-b2ca-005056a59fae,Маргарин 3 Желания Пампушка 55% 450 гр,425,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,1b7418f3-3868-11ef-b2e9-9de26f945390,"Молоко сгущенное Сгущенка Керемет с сахаром 8,5% 330 гр ж/б",605,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,204a819f-7943-11ee-b2e2-005056a59fae,"Суфле воздушное Эмиль Клубника-шоколад 2,5% 160 гр в стакане",575,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,2840fe7b-c07b-11ec-b2b6-005056a59fae,Сметана Эмиль из топленых сливок 15% 380 гр,1199,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,1ef31d0d-7943-11ee-b2e2-005056a59fae,"Суфле воздушное Эмиль Кокос-шоколад 2,5% 160 гр в стакане",575,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,475f4a93-bd43-11ec-b2b6-005056a59fae,Коктейль молочный Чудо ягодное мороженое 2% 950 мл,1295,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,8d10462c-3867-11ef-b2e9-9de26f945390,Масло Петропавловское особое сливочно растительное 70% 180 гр,399,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,5607d1ce-cf96-11ed-b2ca-005056a59fae,"Масло сливочное Златые горы Деревенское 72,5% 180 гр",1315,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,73f92939-c7a6-11ec-b2b9-005056a59fae,Молоко Новый день 6% 1 л тфа,799,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,b92be1c5-3867-11ef-b2e9-9de26f945390,"Молокосодержащий продукт Буренка 3,2% 800 мл",455,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,2178462b-3868-11ef-b2e9-9de26f945390,"Сгущенка Лакомка 8,5% 250 гр дой-пак",455,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,2a19c6cf-05f0-11ef-b2e7-005056a59fae,Сметана Эмиль 20% 180 гр,905,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,210c84b7-c07c-11ec-b2b6-005056a59fae,Творожная масса Эмиль с черносливом 4.5% 180 гр,799,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,e9f82de8-a0b0-11ef-b2ef-005056a59fae,"Масло кислосливочное President высший сорт несоленое 72,5% 180 гр",1095,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,67fee5c7-39d3-11ef-b2e9-9de26f945390,"Молоко Глубокское стерилизованное 6,8% 300 гр",591,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,fb09921e-b932-11ec-b2b6-005056a59fae,Молоко Глубокское Фермерское 7.2% 300 гр ж/б,625,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,fc320aca-a0b0-11ef-b2ef-005056a59fae,Сливки President 11% 200 гр,645,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,f87cc1d4-da06-11ef-b2f4-005056a59fae,Бидай Эко Дом Коржын 250 гр,945,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,c4bb4456-0091-11f0-b2f6-005056a59fae,"Биойогурт Food Master Фисташка 3,2% 900 гр",835,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,d153a01d-a0b0-11ef-b2ef-005056a59fae,"Йогурт Food Master Греческий натуральный 8,4% 300 гр",719,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,2921f880-a482-11f0-b30d-a1cb80a0054b,"Кефир безлактозный Food Master Легкое утро 2,5% 1 л",799,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,09e55231-606b-11f0-b2f7-005056a59fae,Коктейль молочный Чудо Бабл-гам 2% 950 мл,1295,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,a8019ce0-bd43-11ec-b2b6-005056a59fae,Коктейль молочный Чудо ваниль 2% 200 мл,465,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,82ee7014-09d0-11ee-b2d7-005056a59fae,Курт жидкий Ауыл Өнімдері для сорпы среднесоленый 300 гр контейнер,1499,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,53a0c587-da07-11ef-b2f4-005056a59fae,Курт Эко Дом верблюжий серия Коржын 200 гр,1655,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,7da3dae4-da07-11ef-b2f4-005056a59fae,Курт Эко Дом кислосладкий серия Коржын 200 гр,1779,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,973fcfb1-da07-11ef-b2f4-005056a59fae,Курт Эко Дом сладкий серия Коржын 200 гр,1779,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,ab6c5e4e-da07-11ef-b2f4-005056a59fae,Курт Эко Дом соленый серия Коржын 200 гр,1445,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,ca8b91db-da07-11ef-b2f4-005056a59fae,Курт Эко Дом фруктовый серия Коржын 150 гр,1365,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,e0d0212e-da07-11ef-b2f4-005056a59fae,Курт Эко Дом фруктовый серия Коржын 200 гр,1809,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,1e43ca37-da07-11ef-b2f4-005056a59fae,Курт Эко Дом фруктовый серия Коржын 400 гр,3255,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,99b913ae-9f7c-11f0-b30a-db409a45c405,"Масло Gastronomy Lab сливочное 72,5% 200 гр",1379,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,8589b92d-9f7d-11f0-b30a-db409a45c405,"Масло Gastronomy Lab сливочное 82,5% 200 гр",1749,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,07b3cd96-cf97-11ed-b2ca-005056a59fae,"Масло Иртыш сливочное натуральное 82,5% 180 гр",1499,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,bff61f96-985a-11f0-b305-a2aaba099fc9,Масло кислосливочное President 60% 200 гр ванна,1965,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,d00aa476-9859-11f0-b305-a2aaba099fc9,Масло кислосливочное President 60% 200 гр фольга,1735,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,94f17195-9f43-11f0-b30a-db409a45c405,Масло Северное сливочное 250 гр,3265,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,e9f82e49-a0b0-11ef-b2ef-005056a59fae,Масло сливочное President 82% 1 кг ролл,10525,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,3599ecac-cf96-11ed-b2ca-005056a59fae,Масло сливочное Златые горы Элитное 82% 180 гр,1499,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,1b34d89f-c304-11ed-b2ca-005056a59fae,"Масло сливочное Новый день Крестьянское 72,5% 1000 гр в тубе",6325,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,7d153dfa-1536-11f0-b2f6-005056a59fae,"Масло сливочное Новый день Крестьянское 72,5% 180 гр фольга",1425,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,8a307aec-ea96-11ef-b2f5-005056a59fae,"Масло сливочное Родина Традиционное 72,5% 200 гр",1299,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,8a4eb1bd-bfc4-11ec-b2b6-005056a59fae,Масло сливочное Село Лесное 72.5% 180 гр,1465,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,af7c87f8-3ff8-11f0-b2f6-005056a59fae,"Молоко Golden Milk 2,5% 0,9 л т/ф",699,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,dc17a2d9-b95f-11ec-b2b6-005056a59fae,Молоко Айналайын ультрапастеризованное 6% 1 л т/п,1125,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,e3ab2bec-3f15-11f0-b2f6-005056a59fae,"Молоко Бабушкина Крынка питьевое ультрапастеризованное 1,5% 1 л",899,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,beead577-3867-11ef-b2e9-9de26f945390,"Молоко концентрированное MilkoBo 7,5% 500 мл тва",705,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,f702cc5e-3867-11ef-b2e9-9de26f945390,Молоко Петропавловское 6% 900 мл тфа,735,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,dc17a2db-b95f-11ec-b2b6-005056a59fae,Молокосодержащий продукт Буренкино ультрапастеризованный 2.5% 1.95 л т/п,1205,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,dc17a2dd-b95f-11ec-b2b6-005056a59fae,Молокосодержащий продукт Буренкино ультрапастеризованный 3.2% 1.95 л т/п,1275,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,dc17a2df-b95f-11ec-b2b6-005056a59fae,Молокосодержащий продукт Буренкино ультрапастеризованный 6% 1.95 л т/п,1345,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,dc17a2d3-b95f-11ec-b2b6-005056a59fae,Молокосодержащий продукт Милоко ультрапастеризованный с заменителем молочного жира 3.2% 1.95 л т/п,1275,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,dc17a2d5-b95f-11ec-b2b6-005056a59fae,Молокосодержащий продукт Милоко ультрапастеризованный с заменителем молочного жира 6% 1.95 л т/п,1345,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,819b0c5b-041d-11f0-b2f6-005056a59fae,Напиток кисломолочный Food Master Снежок 2% 900 мл м/у,615,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,d6e39649-ce9b-11f0-b31e-903b17606e31,Сливки Laciata для кофе 10% 10*10 гр,565,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,11b3c14b-c796-11ec-b2b9-005056a59fae,Сливки Простоквашино 10% 205 мл т/п,679,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,f61ff45c-24d7-11f0-b2f6-005056a59fae,Сливки Простоквашино 10% 500 мл,1519,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,095168c7-a0b1-11ef-b2ef-005056a59fae,Сметана President 10% 400 гр пл/стакан,795,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,e5d3577e-c07b-11ec-b2b6-005056a59fae,Снежок Эмиль 2.5% 450 гр,705,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,b6e38829-dfc8-11ef-b2f4-005056a59fae,"Суфле воздушное Эмиль  банан-шоколад 2,5% 160 гр в стакане",575,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,0f538ff6-dfc9-11ef-b2f4-005056a59fae,"Суфле воздушное Эмиль вишня-шоколад 2,5% 160 гр в стакане",575,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,da398ac2-9f43-11f0-b30a-db409a45c405,Творог Северное 500 гр зам,1895,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,41fea92f-ed05-11ef-b2f5-005056a59fae,Творог Эмиль Домашний 5% 250 гр,1015,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,9334101c-ed05-11ef-b2f5-005056a59fae,"Творог Эмиль обезжиренный 0,5% 250 гр",935,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,cc1750f2-e454-11ef-b2f4-005056a59fae,Творог Эмиль со сливками 9% 250 гр,1079,KZT,clevermarket.kz
+clever,astana,"Молочные продукты, яйцо",1118,f3016975-a0b1-11ef-b2ef-005056a59fae,ТворожокFood Master Сүзбеше Персик 4% 100 гр пл/с,355,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,71233319-9b23-11ee-b2e2-005056a59fae,Рис Баракат кг,715,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,95aeb7b5-d742-11ec-b2bc-005056a59fae,Рис Мир Круп камолино кг,775,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,36801750-98a1-11ed-b2c9-005056a59fae,Рис Лидер кг,656,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,ec848d72-bbba-11ec-b2b6-005056a59fae,Крупа Мир Круп Керуен Геркулес овсяная 400 гр,315,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,5c41a670-bbbb-11ec-b2b6-005056a59fae,Крупа Мир Круп кукурузная 700 гр,575,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,27f63a6e-bbba-11ec-b2b6-005056a59fae,Чечевица Мир Круп красная 800 гр,1075,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,50430911-bbba-11ec-b2b6-005056a59fae,Крупа Мир Круп Керуен гречневая 800 гр,440,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,16e6be18-e562-11ec-b2be-005056a59fae,Пшено Makfa шлифованное высший сорт 400 гр,530,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,5c41a672-bbbb-11ec-b2b6-005056a59fae,Крупа Мир Круп манная 700 гр,600,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,dd999230-bbb9-11ec-b2b6-005056a59fae,Рис Мир Круп длиннозерный 800 гр,1190,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,ec848d6c-bbba-11ec-b2b6-005056a59fae,Хлопья Мир Круп Геркулес овсяные 500 гр,350,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,cc89bef3-bbb9-11ec-b2b6-005056a59fae,Крупа гороховая Мир Круп Керуен колотая 800 гр,500,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,5043090d-bbba-11ec-b2b6-005056a59fae,Крупа Мир Круп гречневая 1.7 кг,1250,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,10ddcbba-e562-11ec-b2be-005056a59fae,Крупа Makfa манная 700 гр,735,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,8142072d-bbbb-11ec-b2b6-005056a59fae,Пшено Мир Круп Керуен 800 гр,550,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,16e6be16-e562-11ec-b2be-005056a59fae,Крупа Makfa пшеничная Полтавская 400 гр,560,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,6381f63b-e561-11ec-b2be-005056a59fae,Крупа гороховая Makfa колотая 800 гр,700,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,cc89bef5-bbb9-11ec-b2b6-005056a59fae,Крупа гороховая Мир Круп желтый колотая 800 гр,525,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,c1ce7698-e564-11ec-b2be-005056a59fae,Рис Makfa Длиннозерный обработан паром 800 гр,1400,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,dd999232-bbb9-11ec-b2b6-005056a59fae,Рис Мир Круп круглозерный 800 гр,1125,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,5c41a676-bbbb-11ec-b2b6-005056a59fae,Крупа Мир Круп пшеничная 700 гр,350,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,37fb098b-bbba-11ec-b2b6-005056a59fae,Рис Мир Круп Баракат 4.7 кг,6000,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,c1ce769a-e564-11ec-b2be-005056a59fae,Рис Makfa длиннозерный пропаренный в пакетиках для варки 400 гр,714,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,730bc064-bbbb-11ec-b2b6-005056a59fae,Крупа Мир Круп горох колотый 1.7 кг,975,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,5c41a674-bbbb-11ec-b2b6-005056a59fae,Крупа Мир Круп перловая 800 гр,475,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,ba8c8aec-b972-11ec-b2b6-005056a59fae,Нут Мистраль 450 гр,2135,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,27f63a6c-bbba-11ec-b2b6-005056a59fae,Фасоль Мир Круп 1.7 кг,4375,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,df6cc99e-e563-11ec-b2be-005056a59fae,Крупа Bravolli Маш 350 гр,1665,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,10ddcbbc-e562-11ec-b2be-005056a59fae,Крупа Makfa перловая 400 гр,415,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,6381f63f-e561-11ec-b2be-005056a59fae,Крупа гороховая Ярмарка колотая 700 гр,729,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,5c41a666-bbbb-11ec-b2b6-005056a59fae,Крупа Мир Круп Керуен перловая 800 гр,440,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,5c41a66a-bbbb-11ec-b2b6-005056a59fae,Крупа Мир Круп кукурузная 4.7 кг,3065,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,8142072f-bbbb-11ec-b2b6-005056a59fae,Пшено Мир Круп Gold 800 гр,590,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,dd99922c-bbb9-11ec-b2b6-005056a59fae,Рис Мир Круп Керуен шлифованный длиннозерный 800 гр,1150,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,9f4274da-ab3d-11f0-b30f-f2dbc22b973e,Крупа геркулес Davych 400 гр м/у,153,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,62d16f44-ab3d-11f0-b30f-f2dbc22b973e,Крупа гречневая Davych 400 гр кор,353,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,d5726aae-ab3d-11f0-b30f-f2dbc22b973e,Крупа кукурузная Davych 400 гр кор,353,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,9937fcaf-ab3d-11f0-b30f-f2dbc22b973e,Крупа перловая Davych 800 гр м/у,276,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,9937fdbc-ab3d-11f0-b30f-f2dbc22b973e,Крупа пшеничная Davych 400 гр кор,323,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,9937fe4e-ab3d-11f0-b30f-f2dbc22b973e,Крупа пшеничная Davych Полтавская 600 гр м/у,259,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,9937fe50-ab3d-11f0-b30f-f2dbc22b973e,Крупа пшено Davych 800 гр м/у,319,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,42cbfdaa-ab3d-11f0-b30f-f2dbc22b973e,Крупа рисовая Davych длиннозерный обработанная паром 800 гр м/у,761,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,e1722cad-ab3d-11f0-b30f-f2dbc22b973e,Крупа рисовая Davych камолино обработанная маслом 800 гр м/у,633,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,4442e197-ab3d-11f0-b30f-f2dbc22b973e,Крупа рисовая Davych шлифованная 800 гр м/у,591,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,e7a2a90b-ab3d-11f0-b30f-f2dbc22b973e,Крупа чечевичная Davych красная 800 гр м/у,863,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,9f4274ee-ab3d-11f0-b30f-f2dbc22b973e,Крупа ячневая Davych 400 гр кор,323,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,59887443-1106-11ef-b2e7-005056a59fae,Горох колотый Natura Bogata 800 гр,430,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,eb9c3028-9872-11f0-b305-a2aaba099fc9,Крупа гороховая Arbella желтый колотый  800 гр,415,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,c37db333-ab3d-11f0-b30f-f2dbc22b973e,Крупа гороховая Davych колотая 800 гр м/у,440,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,33bb5d30-9873-11f0-b305-a2aaba099fc9,Крупа гречневая Arbella 800 гр,360,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,660fe689-ab3d-11f0-b30f-f2dbc22b973e,Крупа гречневая Davych 800 гр м/у,405,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,2d9761d2-3631-11f0-b2f6-005056a59fae,"Крупа гречневая Кудесница 0,7 кг",309,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,d5726c1e-ab3d-11f0-b30f-f2dbc22b973e,Крупа кукурузная Davych 700 гр м/у,355,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,9937fa7d-ab3d-11f0-b30f-f2dbc22b973e,Крупа манная Davych 700 гр м/у,400,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,730bc066-bbbb-11ec-b2b6-005056a59fae,Крупа Мир Круп горох колотый 4.7 кг,2575,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,5c41a66e-bbbb-11ec-b2b6-005056a59fae,Крупа Мир Круп манная 4.7 кг,2975,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,7989def0-b978-11ec-b2b6-005056a59fae,Крупа Мистраль манная 800 гр,1220,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,9937fbed-ab3d-11f0-b30f-f2dbc22b973e,Крупа перловая Davych 400 гр кор,380,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,9937fcb1-ab3d-11f0-b30f-f2dbc22b973e,Крупа пшено Davych 400 гр кор,405,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,41f575e9-ab3d-11f0-b30f-f2dbc22b973e,Крупа рисовая Davych длиннозерный 800 гр м/у,895,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,42cbfdd3-ab3d-11f0-b30f-f2dbc22b973e,Крупа рисовая Davych круглозерный 800 гр м/у,695,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,4442e24d-ab3d-11f0-b30f-f2dbc22b973e,Крупа рисовая круглозерная 400 гр,600,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,c37db37d-ab3d-11f0-b30f-f2dbc22b973e,Крупа фасоль Davych мясная 700 гр м/у,1300,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,9f4274f0-ab3d-11f0-b30f-f2dbc22b973e,Крупа ячневая Davych 600 гр м/у,270,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,21a7acd0-9873-11f0-b305-a2aaba099fc9,Рис Arbella длинозерный шлифованный 800 гр,1500,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,21a7ace4-9873-11f0-b305-a2aaba099fc9,Рис Arbella круглозерный шлифованный 800 гр,690,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,c1ce769c-e564-11ec-b2be-005056a59fae,Рис Makfa Длиннозерный Шлифованный 800 гр,1635,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,0605009d-1106-11ef-b2e7-005056a59fae,Рис Natura Bogata для плова круглозерный 800 гр,1205,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,dd99922a-bbb9-11ec-b2b6-005056a59fae,Рис Мир Круп Керуен шлифованный 800 гр,1100,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,37fb0992-bbba-11ec-b2b6-005056a59fae,Рис Мир Круп шлифованный 1.7 кг,2190,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,37fb098d-bbba-11ec-b2b6-005056a59fae,Рис Мир Круп шлифованный длиннозерный 1.7 кг,2325,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,5a08ae85-b972-11ec-b2b6-005056a59fae,Фасоль Мистраль Кидни 450 гр,1970,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,5a08ae87-b972-11ec-b2b6-005056a59fae,Фасоль Мистраль Пинто 450 гр,1525,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,d38e8145-9872-11f0-b305-a2aaba099fc9,Чечевица Arbella зеленая крупная 800 гр,775,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,d38e8147-9872-11f0-b305-a2aaba099fc9,Чечевица Arbella красная 800 гр,690,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,d38e81e8-9872-11f0-b305-a2aaba099fc9,Чечевица Arbella красная колотая 800 гр,625,KZT,clevermarket.kz
+clever,astana,"Крупы, бобовые",2224,99c89df6-b972-11ec-b2b6-005056a59fae,Чечевица Мистраль зеленая крупная 450 гр,1295,KZT,clevermarket.kz
